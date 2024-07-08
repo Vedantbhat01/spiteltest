@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/clientp1/public_html/
+    - export DEPLOYPATH=/home/clientp1/spitel.clientprojects.in/repositories/index.html
     - /bin/cp * $DEPLOYPATH
